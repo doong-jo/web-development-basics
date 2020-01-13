@@ -11,6 +11,11 @@
 - [웹페이지를 표시한다는 것:브라우저는 어떻게 동작하는가](https://wiki.developer.mozilla.org/ko/docs/Web/Performance/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80) / MDN 
 
 
+## HTML / CSS
+
+- [float 속성을 해제해야하는 이유와 방법](https://naradesign.github.io/article/float-clearing.html) / Blog
+- [이벤트 버블링, 캡쳐링, 위임](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/) / Blog
+
 ## Javascript
 
 - [실행 컨텍스트와 자바스크립트 동작 원리](https://poiemaweb.com/js-execution-context) / Blog
@@ -19,6 +24,7 @@
 - [호이스팅](https://wiki.developer.mozilla.org/ko/docs/Glossary/Hoisting) / MDN
 - [객체 모델의 세부사항](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EA%B0%9D%EC%B2%B4_%EB%AA%A8%EB%8D%B8%EC%9D%98_%EC%84%B8%EB%B6%80%EC%82%AC%ED%95%AD) / MDN
 - [상속과 프로토타입](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain) / MDN
+- [프로토타입 체이닝](https://meetup.toast.com/posts/104) / Blog
 - [메모리 관리](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management) / MDN
 
 ## Frontend
