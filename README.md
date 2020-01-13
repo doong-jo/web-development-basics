@@ -21,7 +21,7 @@
 
 ## Frontend
 
-### [React](https://ko.reactjs.org/docs/getting-started.html)(공식문서의 설명과 변역이 훌륭함 👍)
+### [React](https://ko.reactjs.org/docs/getting-started.html) (공식문서의 설명과 변역이 훌륭함 👍)
 
 ### Build
 - [Webpack, 이것만은 알고 가자](https://velog.io/@sdong001/Webpack-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EA%B3%A0-%EA%B0%80%EC%9E%90) / Blog
