@@ -13,8 +13,10 @@
 
 ## Javascript
 
+- [실행 컨텍스트와 자바스크립트 동작 원리](https://poiemaweb.com/js-execution-context) / Blog
 - [스코프](https://wiki.developer.mozilla.org/ko/docs/Glossary/%EC%8A%A4%EC%BD%94%ED%94%84) / MDN
 - [클로저](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Closures) / MDN
+- [호이스팅](https://wiki.developer.mozilla.org/ko/docs/Glossary/Hoisting) / MDN
 - [객체 모델의 세부사항](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EA%B0%9D%EC%B2%B4_%EB%AA%A8%EB%8D%B8%EC%9D%98_%EC%84%B8%EB%B6%80%EC%82%AC%ED%95%AD) / MDN
 - [상속과 프로토타입](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain) / MDN
 - [메모리 관리](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management) / MDN
