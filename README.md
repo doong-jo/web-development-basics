@@ -37,7 +37,7 @@
 ## Interview Question
 
 - [질문 리스트 1](https://github.com/doong-jo/web-development-basics/wiki/%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8-1)
-
+- [질문 리스트 2](https://github.com/doong-jo/web-development-basics/wiki/%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8-2)
 
 
 
