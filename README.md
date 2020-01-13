@@ -34,11 +34,4 @@
 ### Build
 - [Webpack, 이것만은 알고 가자](https://velog.io/@sdong001/Webpack-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EA%B3%A0-%EA%B0%80%EC%9E%90) / Blog
 
-## Interview Question
-
-- [질문 리스트 1](https://github.com/doong-jo/web-development-basics/wiki/%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8-1)
-- [질문 리스트 2](https://github.com/doong-jo/web-development-basics/wiki/%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8-2)
-
-
-
 
